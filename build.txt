@@ -1,0 +1,6 @@
+displayName = ModContentDiffer
+author = direwolf420
+version = 0.1
+side = Client
+includePDB = true
+buildIgnore = *.csproj, *.sln, *.user, *.md, obj\*, bin\*, .vs\*, .git\*, .gitignore, .editorconfig
